@@ -1,6 +1,5 @@
 import java.util.*;
 import java.io.*;
-
 // Abstract class representing a generic bank account
 abstract class BankAccount {
     protected String accountHolder;
