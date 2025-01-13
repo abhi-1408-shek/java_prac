@@ -7,7 +7,7 @@ public class SnakeAndLadder {
     private static final int[] snakeEnds = {7, 34, 19, 24, 75, 78};
     private static final int[] ladders = {3, 6, 20, 36, 63, 68};
     private static final int[] ladderEnds = {22, 55, 38, 44, 81, 91};
-
+    
     private int player1Position = 0;
     private int player2Position = 0;
 
