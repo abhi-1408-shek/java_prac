@@ -8,7 +8,6 @@ import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.hmkcode.vo.Article;
 
-
 public class App 
 {
     public static void main( String[] args )
