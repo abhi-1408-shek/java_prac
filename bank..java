@@ -11,7 +11,7 @@ abstract class BankAccount {
         this.accountNumber = accountNumber;
         this.balance = balance;
     }
-
+    
     public String getAccountNumber() {
         return accountNumber;
     }
