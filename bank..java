@@ -47,7 +47,6 @@ abstract class BankAccount {
     public abstract void showAccountDetails();
 }
 
-// Savings account class with interest calculation
 class SavingsAccount extends BankAccount {
     private double interestRate;
 
