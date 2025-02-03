@@ -1,6 +1,5 @@
 import java.util.Random;
 import java.util.Scanner;
-
 public class SnakeAndLadder {
     private static final int WINNING_POSITION = 100;
     private static final int[] snakes = {17, 54, 62, 88, 95, 99};
