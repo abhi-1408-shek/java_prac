@@ -1,6 +1,5 @@
 import java.util.*;
 import java.io.*;
-
 abstract class BankAccount {
     protected String accountHolder;
     protected String accountNumber;
